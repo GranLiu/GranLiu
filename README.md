@@ -1,4 +1,8 @@
-### Hi there 👋
+### Ciao a tutti 👋
+
+- 🔭 I’m currently working on array signal processing, 5.5G wireless communication and numerical simulation.
+- 👯 I’m looking to collaborate on the simulations of Floquet analysis, and the research in the antenna efficiency for dense antenna arrays.
+- 📫 For any doubt, please e-mail at: <liu_xii@foxmail.com>
 
 <!--
 **GranLiu/GranLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
