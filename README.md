@@ -1,6 +1,11 @@
 ### Ciao a tutti 👋
 
-- 🔭 I'm currently working on array signal processing, 5.5G wireless communication and numerical simulation.
+I received the B.S. degree in electronic information engineering from Tongji University, Shanghai, China, and the B.S. degree (cum laude) in computer engineering from Politecnico di Torino, Turin, Italy, in 2021.
+I am currently a postgraduate student in communication and information engineering at Xi'an Jiaotong University.
+
+:smile:
+ 
+- 🔭 I'm currently working on array signal processing, 5.5G wireless communication and numerical optimization.
 - 👯 I'm looking to collaborate on the simulations of Floquet analysis, and the research in the antenna efficiency for dense antenna arrays.
 - 📫 For any doubt, please e-mail at: <liu_xii@qq.com>
 
