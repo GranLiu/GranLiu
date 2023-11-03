@@ -3,14 +3,18 @@
 ## About me
 
 - 2021~now Xi'an Jiaotong University, postgraduate in Communication and Information Engineering
-- 2017~2021 Politecnico di Torino, B.S. in Computer Engineering (cum lode)
-- 2017~2021 Tongji University, B.S. in Electric Information Engineering
+- 2017~2021 Politecnico di Torino, B.S. in Computer Engineering (cum laude)
+- 2017~2021 Tongji University, B.S. in Electronic Information Engineering
 
 ## Research
  
 - 🔭 I'm currently working on array signal processing, 5.5G wireless communication and numerical optimization.
 - 👯 I'm looking to collaborate on the simulations of Floquet analysis, and the research in the antenna efficiency for dense antenna arrays.
 - 📫 For any doubt, please e-mail at: <liu_xii@qq.com>
+
+## Cooperation
+
+- I'd like to cooperate with you guys to build an open source repo regarding signal processing, numerical optimization (interior-point method/ sequential quadratic programming), feel free to contact with me at any time!!
 
 ## Paper
 
