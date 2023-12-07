@@ -18,8 +18,12 @@
 
 ## Paper
 
-- Channel Measurement for Holographic MIMO: Benefits and Challenges of Spatial Oversampling. IEEE International Conference on Communications (ICC), Roma.
-- Effect of Antenna Pattern on the Electromagnetic MIMO Communication. IEEE International Conference on Communication Technology (ICCT), Nanjing.
+### Journal
+- "[Densifying MIMO: Channel Modeling, Physical Constraints, and Performance Evaluation for Holographic Communications](https://arxiv.org/abs/2312.03255)", IEEE Journal on Selected Areas in Communications, forthcoming.
+
+### Conference
+- "[Channel Measurement for Holographic MIMO: Benefits and Challenges of Spatial Oversampling](https://ieeexplore.ieee.org/document/10279384)", IEEE International Conference on Communications (ICC), Rome, Italy, 2023.
+- "[Effect of Antenna Pattern on the Electromagnetic MIMO Communication](https://ieeexplore.ieee.org/document/10072734)", IEEE International Conference on Communication Technology (ICCT), Nanjing, China, 2022.
 
 ## Life
 
