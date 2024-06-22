@@ -19,7 +19,8 @@
 ## Paper
 
 ### Journal
-- "[Densifying MIMO: Channel Modeling, Physical Constraints, and Performance Evaluation for Holographic Communications](https://arxiv.org/abs/2312.03255)", IEEE Journal on Selected Areas in Communications, forthcoming.
+- "[Fast Low-Sidelobe Pattern Synthesis Using the Symmetry of Array Geometry](https://www.mdpi.com/1424-8220/24/13/4059)", Sensors, vol. 24, no. 4059, June 2024.
+- "[Densifying MIMO: Channel Modeling, Physical Constraints, and Performance Evaluation for Holographic Communications](https://ieeexplore.ieee.org/document/10500399)", IEEE Journal on Selected Areas in Communications, vol. 42, no. 6, pp. 1504-1518, June 2024.
 
 ### Conference
 - "[Channel Measurement for Holographic MIMO: Benefits and Challenges of Spatial Oversampling](https://ieeexplore.ieee.org/document/10279384)", IEEE International Conference on Communications (ICC), Rome, Italy, 2023.
