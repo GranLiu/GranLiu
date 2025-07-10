@@ -19,11 +19,12 @@
 ## Paper
 
 ### Journal
+- "An Efficient Method to Estimate the Embedded Element Efficiency: A Key Parameter in Large-Scale Array Communications", IEEE Communications Letters, Accept, 2025.
 - "What Does a Complex Correlation Coefficient Mean?", IEEE Signal Processing Magazine, Accept, 2025.
-- "[A Floquet Series Based Framework to Evaluate the Impact of Antenna Efficiency on MIMO Systems](https://ieeexplore.ieee.org/document/11018613)", IEEE Journal on Selected Areas in Information Theory, Early Access, 2025.
+- "[A Floquet Series Based Framework to Evaluate the Impact of Antenna Efficiency on MIMO Systems](https://ieeexplore.ieee.org/document/11018613)", IEEE Journal on Selected Areas in Information Theory, vol. 6, pp. 150-162, May. 2025.
 - "[Beam Broadening Design for Large-Scale Antenna Arrays Using Convex Quadratic Programming](https://ieeexplore.ieee.org/document/10948356)", IEEE Transactions on Aerospace and Electronic Systems, Early Access, 2025.
-- "[Fast Low-Sidelobe Pattern Synthesis Using the Symmetry of Array Geometry](https://www.mdpi.com/1424-8220/24/13/4059)", Sensors, vol. 24, no. 4059, June 2024.
-- "[Densifying MIMO: Channel Modeling, Physical Constraints, and Performance Evaluation for Holographic Communications](https://ieeexplore.ieee.org/document/10500399)", IEEE Journal on Selected Areas in Communications, vol. 42, no. 6, pp. 1504-1518, June 2024.
+- "[Fast Low-Sidelobe Pattern Synthesis Using the Symmetry of Array Geometry](https://www.mdpi.com/1424-8220/24/13/4059)", Sensors, vol. 24, no. 4059, Jun. 2024.
+- "[Densifying MIMO: Channel Modeling, Physical Constraints, and Performance Evaluation for Holographic Communications](https://ieeexplore.ieee.org/document/10500399)", IEEE Journal on Selected Areas in Communications, vol. 42, no. 6, pp. 1504-1518, Jun. 2024.
 
 ### Conference
 - "[Channel Measurement for Holographic MIMO: Benefits and Challenges of Spatial Oversampling](https://ieeexplore.ieee.org/document/10279384)", IEEE International Conference on Communications (ICC), Rome, Italy, 2023.
